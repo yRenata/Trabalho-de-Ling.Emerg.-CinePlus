@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "filmes" ALTER COLUMN "sinopse" SET DATA TYPE VARCHAR(1000);
