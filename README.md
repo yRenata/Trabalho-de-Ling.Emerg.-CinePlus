@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎬 **CineReview**  
+# 🎬 **CinePlus - API**  
 ### *Plataforma de Avaliação de Filmes com Painel Administrativo e Sistema de Denúncias*  
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
