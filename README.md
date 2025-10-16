@@ -62,6 +62,8 @@ Enquanto isso, o **administrador** acompanha tudo de um painel completo com **gr
 ┣ 📂 utils # Tipos, funções auxiliares e API base
 ┣ 📜 App.tsx # Configuração principal das rotas
 
+---
+
 🧑‍💻 Autora
 
 Renata Bueno (Reeh) 💜
